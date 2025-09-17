@@ -14,7 +14,7 @@
 - 4 floors, 200 spots (50/floor).
 - Single entry/exit point.
 - FCFS spot allocation.
-- Rates: Motorcycle (20Rs/hr), Car (50rs/hr), Bus (100/hr).
+- Rates: Motorcycle (20Rs/hr), Car (50Rs/hr), Bus (Rs/hr).
 - Payment methods: Cash, Card, Wallet.
 - 24/7 operation.
 
